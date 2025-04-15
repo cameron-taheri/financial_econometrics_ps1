@@ -1,7 +1,5 @@
 # %% [markdown]
-# # PROBLEM SET 1
-# # CAMERON TAHERI
-# # DUE DATE: 02/18/25
+# # PROPERTIES OF FINANCIAL TIME SERIES AND VOLATILITY MODELING
 
 # %%
 # Note: I evaluate my p-values at the 5% level.
